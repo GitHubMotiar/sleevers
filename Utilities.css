@@ -1,0 +1,37 @@
+.flex{
+    display: flex;
+    align-items: center;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.bold{
+    font-weight: bold;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+.font_color{
+    color: #424242;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.section1{
+    background-color: rgb(244, 243, 247);
+    height: auto;
+    padding: 40px 0 0 0;
+    /* text-align: center; */
+
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.font-size{
+    font-size: 11px;
+}
